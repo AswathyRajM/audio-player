@@ -1,0 +1,14 @@
+.audio-container {
+  display: flex;
+  align-items: flex-end;
+  height: 150px;
+  overflow: hidden;
+}
+
+.audio-bar {
+  width: 3px;
+  margin: 0 1px;
+  background-color: #4caf50;
+  transition: height 0.1s;
+}
+
